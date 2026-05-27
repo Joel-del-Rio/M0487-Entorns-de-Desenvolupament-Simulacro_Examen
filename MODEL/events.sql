@@ -1,6 +1,5 @@
 
 
-
 INSERT INTO EVENTOS (name, place, date, price, usermail, image_name) VALUES
 ('Experiencia inmersiva IKONO Barcelona', 'Barcelona', '2026-04-15', 18, 'admin@eventhunters.com', 'card__img1.jpg'),
 ('Candlelight: Tributo a ABBA', 'Barcelona', '2026-04-20', 25, 'admin@eventhunters.com', 'card__img2.jpg'),
